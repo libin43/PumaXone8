@@ -1,0 +1,89 @@
+header{
+    background-color: black;
+}
+body{
+    margin: 0;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.blink{
+    caret-color: white;
+}
+.seperation{
+    width: 100%;
+    height: 2em;
+}
+.detailing-desktop-main{  
+    font-size: 3em;
+    font-weight: 400;
+
+}
+.detailing-desktop-sub{
+    font-size: 1em;
+    
+}
+
+.detailing-mobile-main{
+    font-size: 1.5em;
+}
+
+.detailing-mobile-sub{
+    font-size: 1em;
+}
+
+.detailing-desktop-main-softslip{
+    font-size:3em;
+}
+
+.detailing-desktop-sub-softslip{
+    font-size: 1.2em;
+}
+
+.shoes{
+    margin-left: 65%;
+    text-align: center;  
+}
+
+.softride{
+    margin-left: 36%;
+    text-align: center;   
+}
+
+.slides{
+    margin-left: 40%;
+    text-align: center;
+}
+.cricket{
+    padding-left: 40%;
+    text-align: center;
+}
+
+.collection{
+    margin-left: 62%;
+    text-align: center;
+}
+footer{
+    background-color: #181818;
+}
+.horizontal{
+  border-bottom: 2px solid #fff;
+    border-color: rgb(255, 255, 255);
+}
+
+.menu-item{
+    text-decoration: none;
+    color: #818181;
+}
+.menu-item:hover{
+    color: #fff;
+}
+#heart{
+    color: #fff;
+    margin-right: 1em;
+    margin-left: 3em;
+}
+#cart{
+    color: #fff;
+    margin-right: 1em;
+}
+
+
